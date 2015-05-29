@@ -41,3 +41,9 @@ new BataTime(timeMiliseconds, tickTime).start( new BataTimeCallback() {
     }
 });
 ```
+
+
+### Projects using this library
+1: Jifunze Android app - <a target='_blank' href='https://play.google.com/store/apps/details?id=com.jifunzeapp.android'>App on Google Play</a>
+
+2: Kamba Music - <a target='_blank' href='https://play.google.com/store/apps/details?id=com.kambamusic.app'>App on Google Play</a>
