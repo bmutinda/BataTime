@@ -1,4 +1,4 @@
-package ke.co.zuku.zukuapp.libs.batatime;
+package com.bmutinda.libs.batatime;
 
 /**
  * Created by Mutinda Boniface on 5/15/2015.
