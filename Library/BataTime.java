@@ -1,4 +1,4 @@
-package ke.co.zuku.zukuapp.libs.batatime;
+package com.bmutinda.libs.batatime;
 
 import java.util.Timer;
 import java.util.TimerTask;
